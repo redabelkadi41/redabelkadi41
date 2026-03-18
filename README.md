@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Reda Belkadi
 
 Ingénieur Étude & Développement chez Worldline, spécialisé en **Java**, **sécurité des paiements** et **authentification forte (3D Secure)**.
